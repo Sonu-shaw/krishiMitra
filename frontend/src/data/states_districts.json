@@ -1,0 +1,72 @@
+{
+  "Andhra Pradesh": [
+    "Anantapur",
+    "Chittoor",
+    "Guntur",
+    "Krishna",
+    "Prakasam"
+  ],
+  "Bihar": [
+    "Patna",
+    "Gaya",
+    "Muzaffarpur",
+    "Purnia",
+    "Darbhanga"
+  ],
+  "Gujarat": [
+    "Ahmedabad",
+    "Surat",
+    "Vadodara",
+    "Rajkot",
+    "Bhavnagar"
+  ],
+  "Karnataka": [
+    "Bengaluru Urban",
+    "Mysuru",
+    "Mangalore",
+    "Belagavi",
+    "Dharwad"
+  ],
+  "Maharashtra": [
+    "Mumbai",
+    "Pune",
+    "Nagpur",
+    "Nanded",
+    "Akola"
+  ],
+  "Punjab": [
+    "Amritsar",
+    "Ludhiana",
+    "Jalandhar",
+    "Patiala",
+    "Bathinda"
+  ],
+  "Uttar Pradesh": [
+    "Lucknow",
+    "Kanpur",
+    "Agra",
+    "Varanasi",
+    "Meerut"
+  ],
+  "West Bengal": [
+    "Kolkata",
+    "Howrah",
+    "Bardhaman",
+    "Murshidabad",
+    "Siliguri"
+  ],
+  "Rajasthan": [
+    "Jaipur",
+    "Jodhpur",
+    "Udaipur",
+    "Ajmer",
+    "Bikaner"
+  ],
+  "Tamil Nadu": [
+    "Chennai",
+    "Coimbatore",
+    "Madurai",
+    "Tiruchirappalli",
+    "Salem"
+  ]
+}

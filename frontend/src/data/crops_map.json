@@ -1,0 +1,76 @@
+{
+  "Guntur": [
+    {
+      "name": "Chilli",
+      "unit": "\u20b9/kg",
+      "icon": "\ud83c\udf36\ufe0f"
+    },
+    {
+      "name": "Rice",
+      "unit": "\u20b9/quintal",
+      "icon": "\ud83c\udf3e"
+    }
+  ],
+  "Ahmedabad": [
+    {
+      "name": "Cotton",
+      "unit": "\u20b9/quintal",
+      "icon": "\ud83e\uddf5"
+    },
+    {
+      "name": "Wheat",
+      "unit": "\u20b9/quintal",
+      "icon": "\ud83c\udf3e"
+    }
+  ],
+  "Bengaluru Urban": [
+    {
+      "name": "Tomato",
+      "unit": "\u20b9/kg",
+      "icon": "\ud83c\udf45"
+    },
+    {
+      "name": "Potato",
+      "unit": "\u20b9/kg",
+      "icon": "\ud83e\udd54"
+    }
+  ],
+  "Mumbai": [
+    {
+      "name": "Sugarcane",
+      "unit": "\u20b9/tonne",
+      "icon": "\ud83c\udf6c"
+    },
+    {
+      "name": "Rice",
+      "unit": "\u20b9/quintal",
+      "icon": "\ud83c\udf3e"
+    }
+  ],
+  
+  "Anantapur": [
+    { "name": "Sugarcane", "unit": "₹/tonne", "icon": "🍬" },
+    { "name": "Groundnut", "unit": "₹/quintal", "icon": "🥜" },
+    { "name": "Cotton", "unit": "₹/quintal", "icon": "🧵" },
+    { "name": "Tomato", "unit": "₹/kg", "icon": "🍅" },
+    { "name": "Onion", "unit": "₹/quintal", "icon": "🧅" }
+  ],
+  "default": [
+    { "name": "Sugarcane", "unit": "₹/tonne", "icon": "🍬" },
+    { "name": "Potato", "unit": "₹/kg", "icon": "🥔" },
+    { "name": "Wheat", "unit": "₹/quintal", "icon": "🌾" },
+    { "name": "Tomato", "unit": "₹/kg", "icon": "🍅" },
+    { "name": "Onion", "unit": "₹/quintal", "icon": "🧅" },
+    { "name": "Maize", "unit": "₹/quintal", "icon": "🌽" },
+    { "name": "Soybean", "unit": "₹/quintal", "icon": "🫘" },
+    { "name": "Rice", "unit": "₹/quintal", "icon": "🍚" },
+    { "name": "Chilli", "unit": "₹/kg", "icon": "🌶️" },
+    { "name": "Banana", "unit": "₹/dozen", "icon": "🍌" },
+    { "name": "Apple", "unit": "₹/kg", "icon": "🍎" },
+    { "name": "Grapes", "unit": "₹/kg", "icon": "🍇" },
+    { "name": "Pomegranate", "unit": "₹/kg", "icon": "🍎" },
+    { "name": "Mango", "unit": "₹/kg", "icon": "🥭" },
+    { "name": "Mustard", "unit": "₹/quintal", "icon": "🌿" }
+  ]
+}
+
